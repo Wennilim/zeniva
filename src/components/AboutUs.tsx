@@ -1,0 +1,30 @@
+export const AboutUs = () => {
+  return (
+    <section
+      id="about-us"
+      className="relative w-full flex justify-between xl:p-[64px]"
+    >
+      <div className=" w-[380px] h-[750px] bg-moist-forest rounded-bl-full">
+        <img
+          src="/mask2.jpg"
+          alt="about-us"
+          className="absolute w-[450px] h-[530px] rounded-bl-[70%] left-[10%] top-1/5"
+        />
+      </div>
+      <div className="flex flex-col gap-6 xl:py-[64px]">
+        <h2 className="font-libre text-forest-green text-[60px]">About Us</h2>
+        <p className="font-geologica text-[18px] xl:w-[550px]">
+          At Zeniva, we believe in the power of innovation, design, and
+          technology to create seamless experiences. Our mission is to provide
+          cutting-edge solutions that empower businesses and individuals to
+          achieve their full potential. <br />
+          <br />
+          Zeniva is a team of passionate beauty professionals dedicated to
+          excellence, creativity, and customer satisfaction. We specialize in
+          delivering high-quality services across various domains, ensuring that
+          our clients always stay ahead in their industries.
+        </p>
+      </div>
+    </section>
+  );
+};

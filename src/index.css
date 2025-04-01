@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+
+@theme {
+  --font-libre: Libre Baskerville, sans-serif;
+  --font-geologica: Geologica, sans-serif;
+  --color-forest-green: #344B30FF;
+  --color-moist-forest:#56644EFF;
+  --color-mist-green: #7a8972;
+  --color-apple-red:#C5605BFF;
+  --color-tomato-red: #c46f6b;
+  --color-happy-orange: #e1a674;
+  --color-relax-yellow: #e6e2d6;
+}
+
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.libre-baskerville-regular-italic {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.libre-baskerville-regular-italic {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.geologica-basic {
+  font-family: "Geologica", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings: "slnt" 0, "CRSV" 0, "SHRP" 0;
+}
