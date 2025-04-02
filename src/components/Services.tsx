@@ -55,7 +55,7 @@ export const Services = () => {
   return (
     <section
       id="our-services"
-      className="flex flex-col justify-between w-full xl:py-[84px] xl:px-4"
+      className="relative flex flex-col justify-between w-full xl:py-[84px] xl:px-4"
     >
       <div className="absolute right-[20px] w-[100px] h-[100px] rounded-br-[50%] rounded-tl-[50%] bg-mist-green " />
       <div className="absolute right-[130px]  w-[80px] h-[80px] rounded-tr-[50%] rounded-bl-[50%] bg-forest-green " />

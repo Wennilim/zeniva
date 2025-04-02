@@ -8,7 +8,7 @@ import { Services } from "@/components/Services";
 
 function App() {
   return (
-    <div className="max-w-[1920px] mx-auto bg-relax-yellow">
+    <div className="max-w-[1440px] mx-auto bg-relax-yellow">
       <div className="flex flex-col w-full justify-center items-center">
         <Header />
         <Hero />
