@@ -3,6 +3,8 @@ import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import { Hero } from "@/components/Hero";
 import { ScrollToTop } from "@/components/ScrollToTop";
+import { Advantages } from "@/components/Advantages";
+import { Services } from "@/components/Services";
 
 function App() {
   return (
@@ -11,6 +13,8 @@ function App() {
         <Header />
         <Hero />
         <AboutUs />
+        <Advantages />
+        <Services />
         <ScrollToTop />
         <Footer />
       </div>

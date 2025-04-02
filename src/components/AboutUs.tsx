@@ -2,17 +2,20 @@ export const AboutUs = () => {
   return (
     <section
       id="about-us"
-      className="relative w-full flex justify-between xl:p-[64px]"
+      className="relative w-full flex xl:py-[64px] pr-[64px]"
     >
-      <div className=" w-[380px] h-[750px] bg-moist-forest rounded-bl-full">
+      <div className=" w-[450px] h-[750px] bg-mist-green rounded-bl-full">
         <img
           src="/mask2.jpg"
           alt="about-us"
-          className="absolute w-[450px] h-[530px] rounded-bl-[70%] left-[10%] top-1/5"
+          className="absolute w-[500px] h-[630px] rounded-bl-[70%] left-[5%] top-1/7 shadow-lg"
         />
       </div>
-      <div className="flex flex-col gap-6 xl:py-[64px]">
-        <h2 className="font-libre text-forest-green text-[60px]">About Us</h2>
+      <div
+        style={{ alignItems: "self-end" }}
+        className="flex flex-col gap-6 xl:py-[64px] w-full"
+      >
+        <h2 className="font-libre text-forest-green text-[60px] font-semibold">About Us</h2>
         <p className="font-geologica text-[18px] xl:w-[550px]">
           At Zeniva, we believe in the power of innovation, design, and
           technology to create seamless experiences. Our mission is to provide

@@ -1,0 +1,141 @@
+[{
+    "id": 1,
+    "img":"/services/aroma-massage.jpg",
+    "category": "Massage & Aromatherapy",
+    "service": "Aromatherapy Massage",
+    "description": "A relaxing massage using essential oils to enhance mood, relieve stress, and improve circulation."
+},
+{
+    "id": 2,
+    "img":"/services/sweden-massage.jpg",
+    "category": "Massage & Aromatherapy",
+    "service": "Swedish Massage",
+    "description": "A gentle full-body massage focusing on muscle relaxation."
+},
+{
+    "id": 3,
+    "img":"/services/deep-tissue-massage.jpg",
+    "category": "Massage & Aromatherapy",
+    "service": "Deep Tissue Massage",
+    "description": "A deep tissue massage that targets deeper layers of the body, promoting relaxation and rejuvenation."
+},
+{
+    "id": 4,
+    "img":"/services/basic-facial.jpg",
+    "category": "Facial Treatments",
+    "service": "Basic Facial",
+    "description": "A basic facial treatment that includes cleansing, exfoliation, and moisturizing."
+},
+{
+    "id": 5,
+    "img":"/services/acne-facial.jpg",
+    "category": "Facial Treatments",
+    "service": "Acne Treatment Facial",
+    "description": "Specialized care for acne-prone skin, including deep cleansing and anti-inflammatory products."
+},
+{
+    "id": 6,
+    "img":"/services/hydrating-facial.jpg",
+    "category": "Facial Treatments",
+    "service": "Hydrating Facial",
+    "description": "Intense moisture infusion for dry skin."
+},
+{ 
+    "id": 7,
+    "img":"/services/anti-aging-facial.jpg",
+    "category": "Facial Treatments",
+    "service": "Anti-Aging Facial",
+    "description": "Specialized care for reducing the appearance of wrinkles and fine lines."
+},
+{
+    "id": 8,
+    "img":"/services/eyebrow-threading.jpg",
+    "category": "Eyebrow & Eyelash Services",
+    "service": "Eyebrow Threading",
+    "description": "Precision eyebrow threading to enhance the shape and length of eyebrows."
+},
+{
+    "id": 9,
+    "img":"/services/eyelash-tinting.jpg",
+    "category": "Eyebrow & Eyelash Services",
+    "service": "Eyelash Tinting",
+    "description": "Customized eyelash tinting to enhance the color and length of eyelashes."
+},
+{
+    "id": 10,
+    "img":"/services/microblading.jpg",
+    "category": "Eyebrow & Eyelash Services",
+    "service": "Microblading Eyebrow",
+    "description": " Semi-permanent tattooing technique for natural-looking brows."
+},
+{
+    "id": 11,
+    "img":"/services/eyelash-extension.jpg",
+    "category": "Eyebrow & Eyelash Services",
+    "service": "Eyelash Extensions",
+    "description": "Individual synthetic lashes applied for a fuller look."
+},
+{
+    "id": 12,
+    "img":"/services/lash-lift.jpg",
+    "category": "Eyebrow & Eyelash Services",
+    "service": "Lash Lift & Tint",
+    "description": "Curls and tints natural lashes for a lifted effect."
+},
+{
+    "id": 13,
+    "img":"/services/manicure.jpg",
+    "category": "Nail Services",
+    "service": "Manicure",
+    "description": "Gentle and relaxing manicure treatment for hands. Nail shaping, cuticle care, hand massage, and polish."
+},
+{
+    "id": 14,
+    "img":"/services/pedicure.jpg",
+    "category": "Nail Services",
+    "service": "Pedicure",
+    "description": "Gentle and relaxing pedicure treatment for feet. Foot soak, exfoliation, nail trimming, and polish."
+},
+{
+    "id": 15,
+    "img":"/services/gel-nails.jpg",
+    "category": "Nail Services",
+    "service": "Gel Nails",
+    "description": "Customized gel nails for a unique and stylish look.  Long-lasting polish cured under UV light."
+},
+{
+    "id": 16,
+    "img":"/services/arcylic-nails.jpg",
+    "category": "Nail Services",
+    "service": "Acrylic Nails",
+    "description": "Premium acrylic nails for a flawless and long-lasting look. High-quality polish and perfect fit."
+},
+{
+    "id": 17,
+    "img":"/services/nail-art.jpg",
+    "category": "Nail Services",
+    "service": "Nail Art",
+    "description": "Unique and creative nail art designs for a personalized look. Nail polish and tools provided."
+},
+{
+    "id": 18,
+    "img":"/services/waxing.jpg",
+    "category": "Hair Removal",
+    "service": "Waxing",
+    "description": "Permanent removal of unwanted hair using wax or laser technology.  Hair removal using warm wax (e.g., legs, arms, bikini line)."
+},
+{
+    "id": 19,
+    "img":"/services/laser-waxing.jpg",
+    "category": "Hair Removal",
+    "service": "Laser Hair Removal",
+    "description": " Long-term reduction using laser technology.  Hair removal using laser (e.g., eyebrows, bikini line)."
+},
+{
+    "id": 20,
+    "img":"/services/sugaring.jpg",
+    "category": "Hair Removal",
+    "service": "Sugaring",
+    "description": "A natural alternative to waxing using sugar paste."
+}
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Quality Cosmetics",
+    "description": "We offer high-quality cosmetics that are carefully selected and tested to ensure the best possible results."
+  },
+  {
+    "id": 2,
+    "title": "Customer Satisfaction",
+    "description": "We prioritize customer satisfaction and provide personalized recommendations based on your needs."
+  },
+  {
+    "id": 3,
+    "title": "Affordable Prices",
+    "description": "We offer competitive prices for our cosmetics, making them accessible to everyone."
+  }
+]
