@@ -1,3 +1,5 @@
+import { Image } from "@/components/shared/Image";
+
 export const AboutUs = () => {
   return (
     <section
@@ -5,7 +7,7 @@ export const AboutUs = () => {
       className="relative w-full flex xl:py-[64px] pr-[64px]"
     >
       <div className=" w-[450px] h-[750px] bg-mist-green rounded-bl-full">
-        <img
+        <Image
           src="/mask2.jpg"
           alt="about-us"
           className="absolute w-[500px] h-[630px] rounded-bl-[70%] left-[5%] top-1/7 shadow-lg"
@@ -15,7 +17,9 @@ export const AboutUs = () => {
         style={{ alignItems: "self-end" }}
         className="flex flex-col gap-6 xl:py-[64px] w-full"
       >
-        <h2 className="font-libre text-forest-green text-[60px] font-semibold">About Us</h2>
+        <h2 className="font-libre text-forest-green text-[60px] font-semibold">
+          About Us
+        </h2>
         <p className="font-geologica text-[18px] xl:w-[550px]">
           At Zeniva, we believe in the power of innovation, design, and
           technology to create seamless experiences. Our mission is to provide

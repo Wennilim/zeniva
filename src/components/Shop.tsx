@@ -1,3 +1,4 @@
+import { Image } from "@/components/shared/Image";
 
 type ShopItem = {
   id: number;
@@ -58,7 +59,7 @@ const ShopImage = ({
 }: {
   item: ShopItem;
   className?: string;
-}) => <img src={item.img} alt={item.name} className={className} />;
+}) => <Image src={item.img} alt={item.name} className={className} />;
 
 
 export const Shop = () => {

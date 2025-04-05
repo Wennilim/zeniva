@@ -1,3 +1,5 @@
+import { Image } from "./shared/Image";
+
 export const Card = ({
   src,
   title,
@@ -9,7 +11,7 @@ export const Card = ({
 }) => {
   return (
     <div className="flex flex-col h-[420px]">
-      <img
+      <Image
         src={src}
         alt={title}
         className="w-full object-cover w-[400px] h-[217.33px]"

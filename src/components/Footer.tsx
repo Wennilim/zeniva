@@ -2,6 +2,7 @@ import { NavLinks } from "@/components/shared/NavLinks";
 import { AiOutlineMail } from "react-icons/ai";
 import { BiPhone } from "react-icons/bi";
 import { FaLocationDot } from "react-icons/fa6";
+import { Image } from "@/components/shared/Image";
 
 const CONTACT_DETAILS = [
   { icon: AiOutlineMail, text: "zeniva@gmail.com" },
@@ -24,7 +25,7 @@ export const Footer = () => {
   return (
     <footer className="bg-mist-green text-relax-yellow font-geologica w-full px-8 py-12 xl:p-[50px] flex flex-col items-center">
       <div className="w-full grid grid-cols-1 md:grid-cols-3 gap-8">
-        <img
+        <Image
           src="/logo.png"
           alt="Zeniva Logo"
           className="w-48 h-28 mx-auto md:mx-0"

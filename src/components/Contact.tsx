@@ -2,6 +2,7 @@ import React from "react";
 import { useForm, SubmitHandler } from "react-hook-form";
 import { yupResolver } from "@hookform/resolvers/yup";
 import { FormFields } from "@/data/formField";
+import { Image } from "@/components/shared/Image";
 import * as yup from "yup";
 
 type FormData = {
@@ -81,7 +82,7 @@ export const Contact = () => {
         </form>
       </div>
       <div className="bg-mist-green w-[350px] h-[680px] rounded-br-[70%]" />
-      <img src="/contact.png" alt="contact" className="absolute w-[350px] h-[500px] top-[20%] left-[52%] shadow-2xl rounded-br-[70%]" />
+      <Image src="/contact.png" alt="contact" className="absolute w-[350px] h-[500px] top-[20%] left-[52%] shadow-2xl rounded-br-[70%]" />
     </section>
   );
 };

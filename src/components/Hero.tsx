@@ -1,3 +1,5 @@
+import { Image } from "@/components/shared/Image";
+
 export const Hero = () => {
   return (
     <div className="relative w-full h-full flex justify-between align-self-start xl:pl-[64px]">
@@ -12,12 +14,13 @@ export const Hero = () => {
           goals.
         </p>
         <button className="bg-apple-red xl:text-[18px] cursor-pointer w-fit xl:mt-5 text-relax-yellow font-geologica px-16 py-4 rounded-br-full">
-          Make appointment
+          Make an appointment
         </button>
       </div>
-      <img src="/hero.jpg" className="w-[580px] h-[700px] rounded-tl-full" />
-      <img
+      <Image src="/hero.jpg" alt="hero" className="w-[580px] h-[700px] rounded-tl-full" />
+      <Image
         src="/mask.jpg"
+        alt="mask"
         className="w-[300px] h-[200px] rounded-tl-[50%] absolute transform -translate-y-1/2 top-[85%] right-[45%]"
       />
     </div>

@@ -1,4 +1,5 @@
 import ourTeamData from '@/data/team.json'
+import { Image } from '@/components/shared/Image';
 export const Team = () => {
   return (
     <section id="our-team" className='w-[80%]'>
@@ -9,7 +10,7 @@ export const Team = () => {
         {ourTeamData.map((staff) => {
           return (
             <div key={staff.id} className="flex flex-col items-center gap-2 p-4">
-              <img
+              <Image
                 src={staff.img}
                 alt={staff.name}
                 className="self-center w-[150px] h-[150px] object-cover rounded-full shadow-lg"
