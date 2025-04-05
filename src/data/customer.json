@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "img": "/customer/1.jpg",
+    "name": "Alina",
+    "review": "Zeniva gave me the glow-up I needed! The facial treatment was soothing and left my skin radiant. Highly recommended!"
+  },
+  {
+    "id": 2,
+    "img": "/customer/18.jpg",
+    "name": "Brandon",
+    "review": "I really enjoyed the deep tissue massage—my stress just melted away. The therapist was professional and attentive."
+  },
+  {
+    "id": 3,
+    "img": "/customer/19.jpg",
+    "name": "Clara",
+    "review": "The ambiance at Zeniva is so calming. I got a manicure and pedicure and it felt like a mini holiday!"
+  },
+  {
+    "id": 4,
+    "img": "/customer/15.jpg",
+    "name": "Daniel",
+    "review": "Friendly staff, relaxing environment, and top-notch service. My first visit to Zeniva won’t be my last."
+  },
+  {
+    "id": 5,
+    "img": "/customer/20.jpg",
+    "name": "Eliza",
+    "review": "I had a skin consultation and facial, and I can already see improvement. Thank you Zeniva for the confidence boost!"
+  },
+  {
+    "id": 6,
+    "img": "/customer/7.jpg",
+    "name": "Felix",
+    "review": "The aromatherapy session was simply divine. I felt refreshed and energized afterward. Will definitely return!"
+  },
+  {
+    "id": 7,
+    "img": "/customer/6.jpg",
+    "name": "Grace",
+    "review": "I loved how the staff explained every step of the facial treatment. My skin feels smoother and looks brighter!"
+  },
+  {
+    "id": 8,
+    "img": "/customer/8.jpg",
+    "name": "Henry",
+    "review": "Top-tier grooming service and great value for money. Zeniva is my go-to place for self-care now."
+  },
+  {
+    "id": 9,
+    "img": "/customer/4.jpg",
+    "name": "Isabelle",
+    "review": "The hair spa was incredible—my hair feels soft and nourished. Love the natural products they use too!"
+  },
+  {
+    "id": 10,
+    "img": "/customer/21.jpg",
+    "name": "Zoey",
+    "review": "Professional, clean, and welcoming. I tried their signature package and it exceeded expectations!"
+  }
+]

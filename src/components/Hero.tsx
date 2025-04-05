@@ -12,7 +12,7 @@ export const Hero = () => {
           goals.
         </p>
         <button className="bg-apple-red xl:text-[18px] cursor-pointer w-fit xl:mt-5 text-relax-yellow font-geologica px-16 py-4 rounded-br-full">
-          Consultation
+          Make appointment
         </button>
       </div>
       <img src="/hero.jpg" className="w-[580px] h-[700px] rounded-tl-full" />

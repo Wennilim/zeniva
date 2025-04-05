@@ -5,8 +5,8 @@ import { FaLocationDot } from "react-icons/fa6";
 
 const CONTACT_DETAILS = [
   { icon: AiOutlineMail, text: "zeniva@gmail.com" },
-  { icon: FaLocationDot, text: "Hymanwell Medical Tower, Singapore" },
-  { icon: BiPhone, text: "+65 1234 5678" },
+  { icon: FaLocationDot, text: "SingHealth Tower, Singapore" },
+  { icon: BiPhone, text: "+65 6222 3322" },
 ];
 
 const ContactInfo = () => (

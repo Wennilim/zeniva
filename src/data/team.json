@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "img": "/team/boss.png",
+    "name": "Dr. Kingsley",
+    "role": "Managing Director"
+  },
+  {
+    "id": 2,
+    "img": "/team/manager.png",
+    "name": "Olivia",
+    "role": "Manager"
+  },
+  {
+    "id": 3,
+    "img": "/team/staff5.png",
+    "name": "Kate",
+    "role": "Thereapist"
+  },
+  {
+    "id": 4,
+    "img": "/team/staff2.png",
+    "name": "Fiona",
+    "role": "Consultant"
+  },
+  {
+    "id": 5,
+    "img": "/team/staff3.png",
+    "name": "Bella",
+    "role": "Nail Specialist"
+  },
+  {
+    "id": 6,
+    "img": "/team/staff4.png",
+    "name": "Eva",
+    "role": "Senior Thereapist"
+  },
+  {
+    "id": 7,
+    "img": "/team/staff6.png",
+    "name": "Jane",
+    "role": "HR"
+  },
+  {
+    "id": 8,
+    "img": "/team/staff7.png",
+    "name": "Doris",
+    "role": "Beauty Consultant"
+  },
+  {
+    "id": 9,
+    "img": "/team/staff8.png",
+    "name": "Amy",
+    "role": "Assistant Thereapist"
+  }
+]

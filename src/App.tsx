@@ -5,6 +5,10 @@ import { Hero } from "@/components/Hero";
 import { ScrollToTop } from "@/components/ScrollToTop";
 import { Advantages } from "@/components/Advantages";
 import { Services } from "@/components/Services";
+import { Customer } from "@/components/Customer";
+import { Shop } from "@/components/Shop";
+import { Team } from "@/components/Team";
+import { Contact } from "@/components/Contact";
 
 function App() {
   return (
@@ -15,6 +19,10 @@ function App() {
         <AboutUs />
         <Advantages />
         <Services />
+        <Customer />
+        <Shop />
+        <Team />
+        <Contact/>
         <ScrollToTop />
         <Footer />
       </div>
